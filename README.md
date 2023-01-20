@@ -20,12 +20,14 @@ _Instalacion de python_
     ```
     python --version
     ```
-_Instalacion de Anaconda -peso aproximado de ~500mb para la utilizacion jupyter notebooks_
+    
+Instalacion de Anaconda -peso aproximado de ~500mb para la utilizacion jupyter notebooks
 * [Anaconda](https://www.anaconda.com/products/distribution)
    * [Documentacion sobre la instalcion](https://docs.anaconda.com/anaconda/install/index.html)
    * [Video Instalcion en Windows](https://www.youtube.com/watch?v=e9JZNc_9tTg)
    * [Video Instalicion en Linux](https://www.youtube.com/watch?v=uLXBx8whpSk)
-_Instalacion de VisualCode(VC) -Bastante versatil, pero obviamente con su debida configuracion para la utilizacion de jupyter notebooks y archivos de extension python_
+
+Instalacion de VisualCode(VC) -Bastante versatil, pero obviamente con su debida configuracion para la utilizacion de jupyter notebooks y archivos de extension python
 * [VisualCode](https://code.visualstudio.com/)
     * [Documentacion sobre instalacion](https://code.visualstudio.com/docs/setup/windows)
     * [Video Instalacion y configuracion en windows](https://www.youtube.com/watch?v=bZjulmpBIGk)
