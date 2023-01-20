@@ -14,9 +14,9 @@ _Que cosas necesitas para instalar para el uso de los cuadernillos_
 
 * [Python](https://www.python.org/downloads/)
     [Video instalacion python en windows](https://www.youtube.com/watch?v=nXgxe3JM7Rc)
-    '''
+    ```
     verificacion de intalcion en terminal python --version
-    '''
+    ```
 * [Anaconda](https://www.anaconda.com/products/distribution)
     [Documentacion sobre la instalcion](https://docs.anaconda.com/anaconda/install/index.html)
     [Video Instalcion en Windows](https://www.youtube.com/watch?v=e9JZNc_9tTg)
