@@ -29,7 +29,7 @@ _Instalacion de VisualCode(VC) -Bastante versatil, pero obviamente con su debida
 * [VisualCode](https://code.visualstudio.com/)
     * [Documentacion sobre instalacion](https://code.visualstudio.com/docs/setup/windows)
     * [Video Instalacion y configuracion en windows](https://www.youtube.com/watch?v=bZjulmpBIGk)
-    _Videos para la configuracion de VisualCode para la utilizacion de JupyterNotebooks_
+    Videos para la configuracion de VisualCode para la utilizacion de JupyterNotebooks
     * [Primera Opcion](https://www.youtube.com/watch?v=ZYat1is07VI)
     * [Segunda opcion](https://www.youtube.com/watch?v=fA7CFHQk6lU)
 
