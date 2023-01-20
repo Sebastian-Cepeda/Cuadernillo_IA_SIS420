@@ -13,17 +13,18 @@ _Mas algunas aprtes tendran una recomendacion o una breve ayuda que diga a que t
 _Que cosas necesitas para instalar para el uso de los cuadernillos_
 
 * [Python](https://www.python.org/downloads/)
-    [Video instalacion python en windows](https://www.youtube.com/watch?v=nXgxe3JM7Rc)
+    * [Video instalacion python en windows](https://www.youtube.com/watch?v=nXgxe3JM7Rc)
+    * Verificacion de intalcion en terminal
     ```
-    verificacion de intalcion en terminal python --version
+     python --version
     ```
 * [Anaconda](https://www.anaconda.com/products/distribution)
-    [Documentacion sobre la instalcion](https://docs.anaconda.com/anaconda/install/index.html)
-    [Video Instalcion en Windows](https://www.youtube.com/watch?v=e9JZNc_9tTg)
-    [Video Instalicion en Linux](https://www.youtube.com/watch?v=uLXBx8whpSk)
+   * [Documentacion sobre la instalcion](https://docs.anaconda.com/anaconda/install/index.html)
+   * [Video Instalcion en Windows](https://www.youtube.com/watch?v=e9JZNc_9tTg)
+   * [Video Instalicion en Linux](https://www.youtube.com/watch?v=uLXBx8whpSk)
 * [VisualCode](https://code.visualstudio.com/)
-    [Documentacion sobre instalacion](https://code.visualstudio.com/docs/setup/windows)
-    [Video Instalacion y configuracion en windows](https://www.youtube.com/watch?v=bZjulmpBIGk)
+    * [Documentacion sobre instalacion](https://code.visualstudio.com/docs/setup/windows)
+    * [Video Instalacion y configuracion en windows](https://www.youtube.com/watch?v=bZjulmpBIGk)
 
 
 
