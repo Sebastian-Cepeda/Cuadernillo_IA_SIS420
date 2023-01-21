@@ -20,7 +20,7 @@ _Instalacion de python_
     ```
     python --version
     ```
-    
+
 Instalacion de Anaconda -peso aproximado de ~500mb para la utilizacion jupyter notebooks
 * [Anaconda](https://www.anaconda.com/products/distribution)
    * [Documentacion sobre la instalcion](https://docs.anaconda.com/anaconda/install/index.html)
@@ -31,16 +31,16 @@ Instalacion de VisualCode(VC) -Bastante versatil, pero obviamente con su debida 
 * [VisualCode](https://code.visualstudio.com/)
     * [Documentacion sobre instalacion](https://code.visualstudio.com/docs/setup/windows)
     * [Video Instalacion y configuracion en windows](https://www.youtube.com/watch?v=bZjulmpBIGk)
-    Videos para la configuracion de VisualCode para la utilizacion de JupyterNotebooks
-    * [Primera Opcion](https://www.youtube.com/watch?v=ZYat1is07VI)
-    * [Segunda opcion](https://www.youtube.com/watch?v=fA7CFHQk6lU)
+    * Videos para la configuracion de VisualCode para la utilizacion de JupyterNotebooks
+        * [Primera Opcion](https://www.youtube.com/watch?v=ZYat1is07VI)
+        * [Segunda opcion](https://www.youtube.com/watch?v=fA7CFHQk6lU)
 
 
 ## Contenido
 
 * [Documentacion Pyhton](https://docs.python.org/3/) - link a la documentacion de la pagina oficial de python
 * [Documentacion w3schiools](https://www.w3schools.com/python/python_operators.asp) -Lenguaje mejor equipado para el uso de AI
- * Elementos Básicos de Python
+ * Elementos Básicos de Python - Todo esto se encuntra el el cuadernillo de repsao
 	*   Formatos
 	*   Listas
 	*   Tuplas
@@ -56,18 +56,17 @@ Instalacion de VisualCode(VC) -Bastante versatil, pero obviamente con su debida 
 	*   Función Lambda
 	*   Función FILTER
     *   Funciones de Cadenas y caracteres
-	*   Ejercicios simples
 *	Agentes Inteligentes
-	- Breve explicación de Estructuras de datos más usadas en IA árboles y grafos
+	- Breve explicación 
 *	Búsquedas
-	    *   Búsquedas no Informadas
-	        *   Primero en Anchura
-	        *   Primero en Profundidad
-	        *   Cose Uniforme
-	    *   Búsquedas informadas
-	        *   Voraz
-	        *   Greedy
-	        *   A* Estrella
+	    * Búsquedas no Informadas
+	        *  Primero en Anchura
+	        *  Primero en Profundidad
+	        *  Cose Uniforme
+	    * Búsquedas informadas
+	        *  Voraz
+	        *  Greedy
+	        *  A* Estrella
 
 *	Teoría de Juego
 	*   MiniMAx
