@@ -45,18 +45,7 @@ Una mencion especial para Colab, no requiere de ningun tipo de instalacion, lo p
 * [Documentacion Pyhton](https://docs.python.org/3/) - link a la documentacion de la pagina oficial de python
 * [Documentacion w3schiools](https://www.w3schools.com/python/python_operators.asp) -Lenguaje mejor equipado para el uso de AI
  * [Elementos Básicos de Python](https://github.com/Sebastian-Cepeda/Cuadernillo_IA_SIS420/tree/main/01_Elementos_basicos_de_Python)
-	
 *	[Agentes Inteligentes](https://github.com/Sebastian-Cepeda/Cuadernillo_IA_SIS420/tree/main/03_Agentes_Inteligentes)
 	- Breve explicación 
-*	Teoría de Juego
-	*   MiniMAx
-	*   Poda-Alfa-Beta
 *	[Algoritmos Genéticos](https://github.com/Sebastian-Cepeda/Cuadernillo_IA_SIS420/tree/main/05_Algoritmos_geneticos)
-*	Machine Learning
-	*   Regresión Lineal
-	    *   Simple
-	    *   Múltiple
-	*   Regresión Logística
-	    *   Binaria
-	    *   Multi-clase
 *	[Redes Neuronales](https://github.com/Sebastian-Cepeda/Cuadernillo_IA_SIS420/tree/main/07_RedesNeuronales)
