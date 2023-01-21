@@ -35,6 +35,10 @@ Instalacion de VisualCode(VC) -Bastante versatil, pero obviamente con su debida 
         * [Primera Opcion](https://www.youtube.com/watch?v=ZYat1is07VI)
         * [Segunda opcion](https://www.youtube.com/watch?v=fA7CFHQk6lU)
 
+Una mencion especial para Colab, no requiere de ningun tipo de instalacion, lo puedes usar desde internet, y es muy bueno si tu computador no soporta o, si no quieres lidiar con las instalaciones de libreiras, es util, y lo mismo a JupyterNotebook
+
+* [Colab](https://colab.research.google.com/)
+
 
 ## Contenido
 
