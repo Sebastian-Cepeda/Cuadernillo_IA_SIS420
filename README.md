@@ -59,14 +59,14 @@ Instalacion de VisualCode(VC) -Bastante versatil, pero obviamente con su debida 
 *	Agentes Inteligentes
 	- Breve explicación 
 *	Búsquedas
-	    * Búsquedas no Informadas
-	        *  Primero en Anchura
-	        *  Primero en Profundidad
-	        *  Cose Uniforme
-	    * Búsquedas informadas
-	        *  Voraz
-	        *  Greedy
-	        *  A* Estrella
+	* Búsquedas no Informadas
+	    *  Primero en Anchura
+	    *  Primero en Profundidad
+	    *  Cose Uniforme
+	 * Búsquedas informadas
+	    *  Voraz
+	    *  Greedy
+	    *  A* Estrella
 
 *	Teoría de Juego
 	*   MiniMAx
