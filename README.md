@@ -46,35 +46,17 @@ Una mencion especial para Colab, no requiere de ningun tipo de instalacion, lo p
 * [Documentacion w3schiools](https://www.w3schools.com/python/python_operators.asp) -Lenguaje mejor equipado para el uso de AI
  * [Elementos Básicos de Python](https://github.com/Sebastian-Cepeda/Cuadernillo_IA_SIS420/tree/main/01_Elementos_basicos_de_Python)
 	
-*	Agentes Inteligentes
+*	[Agentes Inteligentes](https://github.com/Sebastian-Cepeda/Cuadernillo_IA_SIS420/tree/main/03_Agentes_Inteligentes)
 	- Breve explicación 
-*	Búsquedas
-	* Búsquedas no Informadas
-	    *  Primero en Anchura
-	    *  Primero en Profundidad
-	    *  Cose Uniforme
-	 * Búsquedas informadas
-	    *  Voraz
-	    *  Greedy
-	    *  A* Estrella
-
 *	Teoría de Juego
 	*   MiniMAx
 	*   Poda-Alfa-Beta
-*	Algoritmos Genéticos
+*	[Algoritmos Genéticos](https://github.com/Sebastian-Cepeda/Cuadernillo_IA_SIS420/tree/main/05_Algoritmos_geneticos)
 *	Machine Learning
-	*   Modelos/Librerías a Utilizar(Cada una con un tutorial adjunto de instalación de ser necesario)
-	*   Numpy
-	*   Pandas
-	*   Matplotlib
-	*   Seaborn
-	*   Plotly y Coffinks
-	*   Spicy
 	*   Regresión Lineal
 	    *   Simple
 	    *   Múltiple
 	*   Regresión Logística
 	    *   Binaria
 	    *   Multi-clase
-*	Redes Neuronales
-	*   [Conceptos básicos](https://www.youtube.com/watch?v=uGjD3rUwK5U&list=PLkgbkukKg_NpdJPhhHbemaWHNQCY-lmh1)
+*	[Redes Neuronales](https://github.com/Sebastian-Cepeda/Cuadernillo_IA_SIS420/tree/main/07_RedesNeuronales)
