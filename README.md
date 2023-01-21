@@ -48,4 +48,6 @@ Una mencion especial para Colab, no requiere de ningun tipo de instalacion, lo p
 *	[Agentes Inteligentes](https://github.com/Sebastian-Cepeda/Cuadernillo_IA_SIS420/tree/main/03_Agentes_Inteligentes)
 	- Breve explicación 
 *	[Algoritmos Genéticos](https://github.com/Sebastian-Cepeda/Cuadernillo_IA_SIS420/tree/main/05_Algoritmos_geneticos)
+	- Breve Explicacion
 *	[Redes Neuronales](https://github.com/Sebastian-Cepeda/Cuadernillo_IA_SIS420/tree/main/07_RedesNeuronales)
+	- Breve explicacion
