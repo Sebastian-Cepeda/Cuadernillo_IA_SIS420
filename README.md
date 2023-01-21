@@ -44,22 +44,8 @@ Una mencion especial para Colab, no requiere de ningun tipo de instalacion, lo p
 
 * [Documentacion Pyhton](https://docs.python.org/3/) - link a la documentacion de la pagina oficial de python
 * [Documentacion w3schiools](https://www.w3schools.com/python/python_operators.asp) -Lenguaje mejor equipado para el uso de AI
- * Elementos Básicos de Python - Todo esto se encuntra el el cuadernillo de repsao
-	*   Formatos
-	*   Listas
-	*   Tuplas
-	*   Conjuntos
-	*   Diccionarios
-	*   Operadores IF/ELIF/ELSE
-	*   Operadores de comparación
-	*   Bucle FOR
-	*   Bucle WHILE
-	*   Función range
-	*   Compresiones de listas
-	*   Funciones 
-	*   Función Lambda
-	*   Función FILTER
-    *   Funciones de Cadenas y caracteres
+ * [Elementos Básicos de Python](https://github.com/Sebastian-Cepeda/Cuadernillo_IA_SIS420/tree/main/01_Elementos_basicos_de_Python)
+	
 *	Agentes Inteligentes
 	- Breve explicación 
 *	Búsquedas

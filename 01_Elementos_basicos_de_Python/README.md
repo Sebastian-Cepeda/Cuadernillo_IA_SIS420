@@ -17,6 +17,6 @@
     *   Funciones de Cadenas y caracteres
 * [Repaso](https://github.com/Sebastian-Cepeda/Cuadernillo_IA_SIS420/blob/main/01_Elementos_basicos_de_Python/Repaso.ipynb) - Un repaso de ayuda, con el codigo resumido de lo que se hizo con aterioridad
 * Modulos
-    * [Modulo Numpy]()
-    * [Modulo Pandas]()
-    * [Modulo Matplotlib]()
+    * [Modulo Numpy](https://github.com/Sebastian-Cepeda/Cuadernillo_IA_SIS420/blob/main/01_Elementos_basicos_de_Python/M%C3%B3dulo_Numpy.ipynb)
+    * [Modulo Pandas](https://github.com/Sebastian-Cepeda/Cuadernillo_IA_SIS420/blob/main/01_Elementos_basicos_de_Python/Modulo_Pandas.ipynb)
+    * [Modulo Matplotlib](https://github.com/Sebastian-Cepeda/Cuadernillo_IA_SIS420/blob/main/01_Elementos_basicos_de_Python/Modulo_Matplotlib.ipynb)
